@@ -1,0 +1,15 @@
+Sas-2
+Lajhár-1
+13.feladat:
+1.emelet, szabadhelyek:52
+2.emelet, szabadhelyek:61
+3.emelet, szabadhelyek:59
+4.emelet, szabadhelyek:65
+5.emelet, szabadhelyek:52
+6.emelet, szabadhelyek:22
+7.emelet, szabadhelyek:30
+8.emelet, szabadhelyek:17
+9.emelet, szabadhelyek:47
+10.emelet, szabadhelyek:52
+11.emelet, szabadhelyek:45
+12.emelet, szabadhelyek:16
